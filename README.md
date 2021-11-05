@@ -1,2 +1,2 @@
 # connect-four!
-[Screenshot](screenshot.png)
+[Screenshot](Screenshot.png)
